@@ -1,0 +1,18 @@
+Retrieving the total count of rows in a table using COUNT(*).
+Using COUNT(column_name) to find non-null values in a specific column.
+Calculating the average of a numeric column with AVG(column_name).
+Summing up values in a column using SUM(column_name).
+Finding the maximum value in a column using MAX(column_name).
+Determining the minimum value in a column using MIN(column_name).
+Using GROUP BY to group data by a specific column and summing entries in each group.
+Finding the sum of salary by branch_id.
+Calculating the average salary using AVG grouping by super_id.
+Filtering grouped results using HAVING (e.g., HAVING AVG(salary) > 50000) and grouping by branch_id.
+Finding the number of employees in each branch.
+Grouping by multiple columns (e.g., branch_id and super_id) and calculate the total sales.
+Sorting grouped results by an aggregate function (e.g., total salary in descending order).
+Using ROUND to display average salaries rounded to 2 decimal places grouped by super_id.
+Query to list employee with the highest salary group by emp_id.
+Finding branch_id with salaries greater than the branch average.
+Comparing WHERE and HAVING in a query.
+
